@@ -1,0 +1,14 @@
+.Produtos {
+    width: 25%;
+    height: 100px;
+    display: inline-block;
+    align-items: center;
+  
+   
+  }
+
+  .Produtos button {
+    border-radius:5px;
+  }
+ 
+ 
